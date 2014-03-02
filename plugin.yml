@@ -3,7 +3,7 @@ main: me.DawnBudgie.PandoraSlots.PandoraSlots
 author: DawnBudgie
 version: '1.0'
 description: Allows members with a certain permission to enter the server when it is full!
-website: Report Issues to www.github.com/DawnBudgie
+website: https://github.com/PandorasBlocks
 permissions:
   PandoraSlots.bypass:
     description: Enter a server at all times
